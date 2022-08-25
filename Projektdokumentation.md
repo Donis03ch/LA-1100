@@ -1,8 +1,8 @@
-# Projekt-Dokumentation
+# Projekt-Dokumentation LA 1100
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Brandon Spaqi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,13 +14,13 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz. Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird und der User die Zahl raten muss.
+Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird und der User die Zahl raten muss.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            | Funktionalität     | Als ein Spieler möchte ich, dass der Computer eine Zufallszahl zwischen 1 - 100 speichert, damit man eine Zahl raten kann Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    | muss            | Funktionalität     | Als ein Spieler möchte ich, dass der Computer eine Zufallszahl zwischen 1 - 100 speichert, damit man eine Zahl raten |
 | 2    | muss            | Funktionalität     | Als ein Spieler möchte ich eine Zahl raten, damit ich punkten kann.                                   |
 | 3    | muss            | Funktionalität | Als ein Spieler möchte ich, dass mir der Computer Hinweise gibt, damit ich eine bessere Ratechance habe. |
 | 4    | kann            | Qualität | Als ein Spieler möchte ich, dass mir der Computer die Anzahl versuche zeigt, damit ich mich mit anderen messen kann |
@@ -33,8 +33,18 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Computer startet und generiert Zahl             | 200        |   Die Zahl muss zwischen 1 - 100 sein!                |
+| 1.2  | Computer startet und generiert Zahl             |  40       |  Die Zahl ist grösser als die Geheimzahl                 |
+| 1.3  | Computer startet und generiert Zahl             |  22       |  Die Zahl ist kleiner als die Geheimzahl                 |
+| 1.4  | Computer startet und generiert zahl             | -77        | Die Zahl muss zwischen 1 - 100 sein!                  |
+| 2.1  | Computer generiert Zahl. erwartet Eingabe             |  Affe       | Bitte geben sie eine Zahl zwischen 1 - 100 ein!                  |
+| 2.2  | Computer generiert Zahl. erwartet Eingabe             |  +-       |  Bitte geben sie eine Zahl zwischen 1 - 100 ein!                 |
+| 2.3  | Computer generiert Zahl. erwartet Eingabe             |  40       |  Zahl wird mit der Geheimzahl verglichen                 |
+| 3.1  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | 40        |  Hinweis(Zahl ist grösser als die Geheimzahl)                 |
+| 3.2  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | 7        | Hinweis(Zahl ist kleiner als die Geheimzahl)                  |
+| 4.1  | Eingabe verglichen mit Geheimzahl             | falsche Zahl        | Versuch: 1                  |
+| 4.2  | Eingabe verglichen mit Geheimzahl             | nochmal falsche Zahl        | Versuch: 2                  |
+| 5.1  | Eingabe verglichen mit Geheimzahl. Versuche: 1             | x#we        |  Bitte geben sie eine gültige Zahl zwischen 1 - 100                 |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -47,18 +57,18 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  1.9     |  Brandon         |              |  45min             |
-| 2.A  |  1.W     |  Brandon         |              |  45min             |
-| 3.A  |  1.W     |  Brandon         |              |  45min             |
-| 4.A  |  1.W     |  Brandon         |              |  45min             |
-| 5.A  |  8.9     |  Brandon         |              |  45min             |
-| 6.A  |  2.W     |  Brandon         |              |  45min             |
-| 7.A  |  2.W     |  Brandon         |              |  45min             |
-| 8.A  |  2.W     |  Brandon         |              |  45min             |
-| 9.A  |  15.9     | Brandon          |              |  45min             |
-| 10.A |  3.W     | Brandon          |              |  45min             |
-| 11.A |  3.W     | Brandon         |              | 45min             |
-| 12.A |  3.W     | Brandon         |              | 45min              |
+| 1.A  |  1.9     |  Brandon         |  Lernen wie man einen Zufallszahlgenerator programmier            |  45min             |
+| 2.A  |  1.W     |  Brandon         |  Eingabe von Zahl erstellen            |  45min             |
+| 3.A  |  1.W     |  Brandon         |  Hinweise programmieren           |  45min             |
+| 4.A  |  1.W     |  Brandon         |  Anzeige von Versuchen erstellen            |  45min             |
+| 5.A  |  8.9     |  Brandon         |  Lernen wie man im Programm Fehlermeidungen programmiert             |  45min             |
+| 6.A  |  2.W     |  Brandon         |  Erweiterte Programmierungen eingeben            |  45min             |
+| 7.A  |  2.W     |  Brandon         |  Gewinnsystem programieren            |  45min             |
+| 8.A  |  2.W     |  Brandon         |  Rangliste programmieren            |  45min             |
+| 9.A  |  15.9    | Brandon          |  Neue Stufen einfügen            |  45min             |
+| 10.A |  3.W     | Brandon          |  Musik einfügen            |  45min             |
+| 11.A |  3.W     | Brandon         |  Musik Stummschaltung programmieren            | 45min             |
+| 12.A |  3.W     | Brandon         |  Layout ändern            | 45min              |
 
 Total: 
 
