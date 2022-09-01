@@ -84,8 +84,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  01.09.2022     |   Brandon        | 80min.              |   55min.                |
-| 2.A  |  01.09.2022     |   Brandon        | 45min.              |   45min.                |
+| 1.A  |  01.09.2022     |   Brandon        | 80min.              |   60min.                |
+| 2.A  |  01.09.2022     |   Brandon        | 45min.              |   50min.                |
 | 3.A  |  01.09.2022     |   Brandon        | 50min.              |   40min.                |
 | 4.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
