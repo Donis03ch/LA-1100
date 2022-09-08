@@ -61,7 +61,7 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 | 2.A  |  1.W     |  Brandon         |  Eingabe von Zahl erstellen            |  45min             |
 | 3.A  |  1.W     |  Brandon         |  Hinweise programmieren           |  45min             |
 | 4.A  |  1.W     |  Brandon         |  Anzeige von Versuchen erstellen            |  45min             |
-| 5.A  |  8.9     |  Brandon         |  Lernen wie man im Programm Fehlermeidungen programmiert             |  45min             |
+| 5.A  |  8.9     |  Brandon         |  Lernen wie man das Spiel nochmal spielen kann             |  45min             |
 | 6.A  |  2.W     |  Brandon         |  Erweiterte Programmierungen eingeben            |  45min             |
 | 7.A  |  2.W     |  Brandon         |  Gewinnsystem programieren            |  45min             |
 | 8.A  |  2.W     |  Brandon         |  Rangliste programmieren            |  45min             |
@@ -88,6 +88,8 @@ Total:
 | 2.A  |  01.09.2022     |   Brandon        | 40min.              |   50min.                |
 | 3.A  |  01.09.2022     |   Brandon        | 50min.              |   45min.                |
 | 4.A  |  01.09.2022     |   Brandon        | 50min.              |   60min.                |
+| 5.A  |  08.09.2022     |   Brandon        | 60min.              |   60min.                |
+| 6.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
