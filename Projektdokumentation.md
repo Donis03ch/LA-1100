@@ -24,7 +24,7 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 | 2    | muss            | Funktionalität     | Als ein Spieler möchte ich eine Zahl raten, damit ich punkten kann.                                   |
 | 3    | muss            | Funktionalität | Als ein Spieler möchte ich, dass mir der Computer Hinweise gibt, damit ich eine bessere Ratechance habe. |
 | 4    | kann            | Qualität | Als ein Spieler möchte ich, dass mir der Computer die Anzahl versuche zeigt, damit ich mich mit anderen messen kann |
-| 5    | muss            | Qualität | Als ein Spieler möchte ich, dass das Programm Fehleingaben umgeht/vermeidet, damit ich spielen kann |
+| 5    | muss            | Qualität | Als ein Spieler möchte ich, dass das Programm nochmal eine Zahl generiert, damit ich nochmal spielen kann ohne das Programm zu schliessen |
 | 6    | kann            | Randanforderung | Als ein Spieler möchte ich, dass das Programm neue Feature annimmt und spannend bleibt, damit ich keine langeweile habe. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
