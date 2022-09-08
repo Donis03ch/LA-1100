@@ -7,7 +7,7 @@ Brandon Spaqi
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Ich habe eine Zufallszahl generiert, Hinweise angegeben und die Eingabe einer Zahl programmiert. |
-|       | 0.0.2.     |                                                              |
+|       | 0.0.2     |  Ich habe die Anzahl der Versuche programmiert und die Wiederhol-Funktion, ohne das Programm zu schliessen programmiert.                                                            |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -89,7 +89,7 @@ Total:
 | 3.A  |  01.09.2022     |   Brandon        | 50min.              |   45min.                |
 | 4.A  |  01.09.2022     |   Brandon        | 50min.              |   60min.                |
 | 5.A  |  08.09.2022     |   Brandon        | 60min.              |   60min.                |
-| 6.A  |       |           |               |                   |
+| 6.A  |  08.09.2022     |   Brandon        | 45min.              |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
