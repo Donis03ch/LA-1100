@@ -88,8 +88,8 @@ Total:
 | 2.A  |  01.09.2022     |   Brandon        | 40min.              |   50min.                |
 | 3.A  |  01.09.2022     |   Brandon        | 50min.              |   45min.                |
 | 4.A  |  01.09.2022     |   Brandon        | 50min.              |   60min.                |
-| 5.A  |  08.09.2022     |   Brandon        | 60min.              |   60min.                |
-| 6.A  |  08.09.2022     |   Brandon        | 45min.              |                   |
+| 5.A  |  08.09.2022     |   Brandon        | 60min.              |   40min.                |
+| 6.A  |  08.09.2022     |   Brandon        | 45min.              |   45min.                |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
