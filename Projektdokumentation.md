@@ -6,8 +6,8 @@ Brandon Spaqi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.1   | Ich habe eine Zufallszahl generiert, Hinweise angegeben und die Eingabe einer Zahl programmiert. |
+|       | 0.0.2.     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -20,7 +20,7 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            | Funktionalität     | Als ein Spieler möchte ich, dass der Computer eine Zufallszahl zwischen 1 - 100 speichert, damit man eine Zahl raten |
+| 1    | muss            | Funktionalität     | Als ein Spieler möchte ich, dass der Computer eine Zufallszahl zwischen 1 - 100 speichert, damit man eine Zahl raten  kann |
 | 2    | muss            | Funktionalität     | Als ein Spieler möchte ich eine Zahl raten, damit ich punkten kann.                                   |
 | 3    | muss            | Funktionalität | Als ein Spieler möchte ich, dass mir der Computer Hinweise gibt, damit ich eine bessere Ratechance habe. |
 | 4    | kann            | Qualität | Als ein Spieler möchte ich, dass mir der Computer die Anzahl versuche zeigt, damit ich mich mit anderen messen kann |
@@ -87,7 +87,7 @@ Total:
 | 1.A  |  01.09.2022     |   Brandon        | 80min.              |   70min.                |
 | 2.A  |  01.09.2022     |   Brandon        | 40min.              |   50min.                |
 | 3.A  |  01.09.2022     |   Brandon        | 50min.              |   45min.                |
-| 4.A  |  01.09.2022     |   Brandon        | 50min.              |                   |
+| 4.A  |  01.09.2022     |   Brandon        | 50min.              |   60min.                |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
