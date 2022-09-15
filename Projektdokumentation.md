@@ -34,14 +34,14 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Computer startet und generiert Zahl             | 200        |   Die Zahl muss zwischen 1 - 100 sein!                |
-| 1.2  | Computer startet und generiert Zahl             |  40       |  Die Zahl ist grösser als die Geheimzahl                 |
-| 1.3  | Computer startet und generiert Zahl             |  22       |  Die Zahl ist kleiner als die Geheimzahl                 |
+| 1.2  | Computer startet und generiert Zahl             |  Zahl > generierte Zahl       |  Die Zahl ist grösser als die Geheimzahl                 |
+| 1.3  | Computer startet und generiert Zahl             |  Zahl < generierte zahl       |  Die Zahl ist kleiner als die Geheimzahl                 |
 | 1.4  | Computer startet und generiert zahl             | -77        | Die Zahl muss zwischen 1 - 100 sein!                  |
 | 2.1  | Computer generiert Zahl. erwartet Eingabe             |  Affe       | Bitte geben sie eine Zahl zwischen 1 - 100 ein!                  |
 | 2.2  | Computer generiert Zahl. erwartet Eingabe             |  +-       |  Bitte geben sie eine Zahl zwischen 1 - 100 ein!                 |
 | 2.3  | Computer generiert Zahl. erwartet Eingabe             |  40       |  Zahl wird mit der Geheimzahl verglichen                 |
-| 3.1  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | 40        |  Hinweis(Zahl ist grösser als die Geheimzahl)                 |
-| 3.2  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | 7        | Hinweis(Zahl ist kleiner als die Geheimzahl)                  |
+| 3.1  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | Zahl > Geheimzahl      |  Hinweis(Zahl ist grösser als die Geheimzahl)                 |
+| 3.2  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | Zahl < Gehimzahl      | Hinweis(Zahl ist kleiner als die Geheimzahl)                  |
 | 4.1  | Eingabe verglichen mit Geheimzahl             | falsche Zahl        | Versuch: 1                  |
 | 4.2  | Eingabe verglichen mit Geheimzahl             | nochmal falsche Zahl        | Versuch: 2                  |
 | 5.1  | Eingabe verglichen mit Geheimzahl. Versuche: 1             | x#we        |  Bitte geben sie eine gültige Zahl zwischen 1 - 100                 |
