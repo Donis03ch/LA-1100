@@ -1,14 +1,14 @@
 # Projekt-Dokumentation LA 1100
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Brandon Spaqi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Ich habe eine Zufallszahl generiert, Hinweise angegeben und die Eingabe einer Zahl programmiert. |
-|       | 0.0.2     |  Ich habe die Anzahl der Versuche programmiert und die Wiederhol-Funktion, ohne das Programm zu schliessen programmiert.                                                            |
-|       | 1.0.0   |                                                              |
+|       | 0.0.2     |  Ich habe die Anzahl der Versuche programmiert und die Wiederhol-Funktion, ohne das Programm zu schliessen programmiert.                     |
+|       | 1.0.0   | Ich habe das Testprotokoll durchgeführt.                                                             |
 
 ## 1 Informieren
 
@@ -27,7 +27,7 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 | 5    | muss            | Qualität | Als ein Spieler möchte ich, dass das Programm nochmal eine Zahl generiert, damit ich nochmal spielen kann ohne das Programm zu schliessen |
 | 6    | kann            | Randanforderung | Als ein Spieler möchte ich, dass das Programm neue Feature annimmt und spannend bleibt, damit ich keine langeweile habe. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -43,14 +43,13 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 | 3.1  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | Zahl > Geheimzahl      |  Hinweis(Zahl ist grösser als die Geheimzahl)                 |
 | 3.2  | Computer generiert Zahl. Eingabe verglichen mit Geheimzahl             | Zahl < Gehimzahl      | Hinweis(Zahl ist kleiner als die Geheimzahl)                  |
 | 4.1  | Eingabe verglichen mit Geheimzahl             | falsche Zahl        | Versuch: 1                  |
-| 4.2  | Eingabe verglichen mit Geheimzahl             | nochmal falsche Zahl        | Versuch: 2                  |
 | 5.1  | Eingabe verglichen mit Geheimzahl. Versuche: 1             | x#we        |  Bitte geben sie eine gültige Zahl zwischen 1 - 100                 |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen. <img width="539" alt="image" src="https://user-images.githubusercontent.com/111046453/186597964-a3cdcdcc-30f4-4c4b-a771-58d14d0c74b5.png">
+ <img width="539" alt="image" src="https://user-images.githubusercontent.com/111046453/186597964-a3cdcdcc-30f4-4c4b-a771-58d14d0c74b5.png">
 
 
 ## 2 Planen
@@ -72,13 +71,11 @@ Ich erstelle ein Zahlenratespiel, wobei eine zufällige Zahl gespeichert wird un
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -90,29 +87,35 @@ Total:
 | 4.A  |  01.09.2022     |   Brandon        | 50min.              |   60min.                |
 | 5.A  |  08.09.2022     |   Brandon        | 60min.              |   40min.                |
 | 6.A  |  08.09.2022     |   Brandon        | 45min.              |   45min.                |
-| ...  |       |           |               |                   |
+| 7.A  | -       | -           | -             | -                   |
+| 8.A  | -       | -           | -             | -                   |
+| 9.A  | -       | -           | -             | -                   |
+| 10.A  | -       | -           | -             | -                   |
+| 11.A  | -       | -           | -             | -                   |
+| 12.A  | -       | -           | -             | -                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | Tester | Fazit |
+| ---- | ----- | -------- | ------ | ----- |
+| 1.1  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, sondern übersichtlicher. |
+| 1.2  | 22.09.2022      | Funktioniert         | Spaqi Brandon       | Es ist nötig um es zu spielen, es macht es übersichtlicher. |
+| 1.3  | 22.09.2022      | Funktioniert         | Spaqi Brandon       | Es ist nötig um es zu spielen, es macht es übersichtlicher. |
+| 1.4  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, sondern übersichtlicher. |
+| 2.1  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nötig um eine gültige Zahl zu fordern und das Spiel weiterhin funktioniert. |
+| 2.2  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nötig um eine gültige Zahl zu fordern und das Spiel weiterhin funktioniert. |
+| 2.3  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen. |
+| 3.1  | 22.09.2022      | Funktioniert         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, es macht das Spielerlebnis schöner. |
+| 3.2  | 22.09.2022      | Funktioniert         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, es macht das Spielerlebnis schöner. |
+| 4.1  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, es macht es nur schöner. |
+| 5.1  | 22.09.2022      | Funktioniert nicht         | Spaqi Brandon       | Es ist nicht nötig um es zu spielen, es macht es nur schöner. |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
