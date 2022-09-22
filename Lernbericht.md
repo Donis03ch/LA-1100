@@ -3,11 +3,11 @@ Brandon Spaqi
 
 ## Einleitung
 
-Ich habe mit Visual Studio einen Zufallszahlgenerator programmiert. ✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe mit Visual Studio einen Zufallszahlgenerator geschrieben. 
 
 ## Was habe ich gelernt?
 
-Ich habe eine Zufallszahl generiert. ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe eine Zufallszahl generiert. 
 
 ## Beschreibung
 
@@ -17,21 +17,26 @@ Ich habe eine Zufallszahl generiert. ✍️ Beschreiben Sie in einem Satz **eine
 ```
 
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+https://user-images.githubusercontent.com/111046453/191718367-8bd73b18-66cc-4260-a4e9-cfaf56e8a19b.mp4
+
+
+
+Um eine zufällige Zahl zu generieren brauchte ich eine Random class. Nachdem nutzte ich die Next() Methode um die Zufallszahl, in der ausgewählten Reichweite zu kriegen.
+
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Die oberigen Medien zeigen, wie ich:
+mit dem Code eine Zahl generierte.
+mit dem Video, das Programm im Hintergrund schon die Zahl generiert hat.
+mit dem Text die Methode kennenlehrte.
 
 # Reflektion zum Arbeitsprozess
+Ich habe schnell verstanden wie, das generieren geht.
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich habe lange zum überlegen gebraucht.
 
-👎 und etwas, was nicht gut lief.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächtes mal denke ich klarer mit genug Wasser und Verstand. 
