@@ -28,10 +28,10 @@ Um eine zufällige Zahl zu generieren brauchte ich eine Random class. Nachdem nu
 
 ## Verifikation
 
-Die oberigen Medien zeigen, wie ich:
+Die oberigen Medien zeigen, wie ich
 mit dem Code eine Zahl generierte.
-mit dem Video, das Programm im Hintergrund schon die Zahl generiert hat.
-mit dem Text die Methode kennenlehrte.
+Mit dem Video zeige ich wie ich eine zufällige Zahl im Programm machte und
+mit dem Text, die Methode verstehen konnte.
 
 # Reflektion zum Arbeitsprozess
 Ich habe schnell verstanden wie, das generieren geht.
